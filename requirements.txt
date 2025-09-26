@@ -3,3 +3,6 @@ Django==5.2.6
 sqlparse==0.5.3
 tzdata==2025.2
 uv==0.8.18
+crispy-bootstrap4==2025.6
+django-crispy-forms==2.4
+pillow==11.3.0
