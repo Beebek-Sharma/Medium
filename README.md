@@ -1,4 +1,4 @@
-# Medium Django Blog Project
+# Medium
 
 This is a Django-based blog application. It supports user registration, login, profile management, posting, and password reset via email.
 
